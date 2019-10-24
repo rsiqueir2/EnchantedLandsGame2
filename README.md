@@ -1,5 +1,8 @@
 # EnchantedLandsGame2
 
-Segunda parte do Projeto 
+Segunda parte do Projeto 2º Bimestre
 
-Projeto Nível 2
+Arthur de Andrade
+Raiane Siqueira
+
+Tópicos Especiais II 
