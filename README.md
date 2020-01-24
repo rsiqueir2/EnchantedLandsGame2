@@ -2,6 +2,7 @@
 
 Segunda parte do Projeto 2º Bimestre
 Projeto de Tópicos Especiais II
+Linguagem: C#
 Profº César Peixoto
 
 Grupo:
